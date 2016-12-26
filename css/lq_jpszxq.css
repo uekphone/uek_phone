@@ -1,0 +1,81 @@
+.lq-gs-box{
+    width:100%;
+    height:auto;
+    box-sizing: border-box;
+    padding:.3rem .2rem .3rem .3rem;
+    background:#fff;
+    margin-top:.3rem;
+}
+.lq-gs{
+    width:100%;
+    height:.37rem;
+    border-bottom: 1px dashed #9A9690;
+    position: relative;
+    font-size:.26rem;
+    color:#454544;
+}
+.lq-ls{
+    width:.04rem;
+    height:.2rem;
+    position: absolute;
+    left:-.2rem;
+    top:.03rem;
+    background-image: url(../images/lq_img/lq-lt.png);
+    background-size: .04rem .2rem;
+}
+.lq-lsls{
+    width:100%;
+    height:2.8rem;
+    margin-top:.3rem;
+}
+.lq-lsls img{
+    width:2.8rem;
+    float:left;
+}
+.lq-gs-right{
+    width:3.2rem;
+    height:2.4rem;
+    float:right;
+    margin-top:.2rem;
+}
+.lq-gs-right h3{
+    font-size:.28rem;
+    color:#000;
+    font-weight: bold;
+}
+.lq-gs-right h3 span{
+    font-size:.22rem;
+    color:#00B8FF;
+    font-weight: normal;
+}
+.lq-zy-box {
+    width:100%;
+    margin-top:.45rem;
+}
+.lq-zy-box p{
+    color:#000;
+    font-size:.24rem;
+    line-height: .4rem;
+    overflow: hidden;
+}
+.lq-zy{
+   font-weight: bold;
+}
+.lq-jnjs{
+    display:inline-block;
+    width:1.8rem;
+    float:right;
+    margin-right:.6rem;
+}
+/*概述结束*/
+/*教师简介开始*/
+.lq-jsnr{
+    width:100%;
+    margin-top:.2rem;
+}
+.lq-jsnr p{
+    font-size:.24rem;
+    color:#666460;
+    line-height:.4rem;
+}
+/*教师简介结束*/
