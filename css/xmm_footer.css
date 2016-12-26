@@ -1,0 +1,19 @@
+/* 
+* @Author: Marte
+* @Date:   2016-12-25 22:58:14
+* @Last Modified by:   Marte
+* @Last Modified time: 2016-12-26 11:13:17
+*/
+.xmm-footer{
+    width:7.5rem;
+    height:0.6rem;
+    padding:0.4rem 0;
+}
+.xmm-footer p{
+    width:100%;
+    height:50%;
+    font-size: 0.2rem;
+    color:#666;
+    text-align: center;
+    line-height:0.3rem;
+}
