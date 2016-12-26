@@ -18,3 +18,4 @@ function fontsize(designwidth){
     fontSizeFun();
     window.onresize=fontSizeFun;
 }
+fontsize(750)
