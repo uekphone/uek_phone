@@ -1,3 +1,8 @@
+html,body{
+    width:100%;
+    height:100%;
+    background:#F5F6FA;
+}
 *{
     font-family:"微软雅黑";
 }
@@ -5,7 +10,6 @@
     width:7rem;
     height:auto;
     padding:0 0.25rem;
-    background:#F5F6FA;
     overflow:hidden;
 }
 .zsy-title{
