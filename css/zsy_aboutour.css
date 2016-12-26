@@ -1,0 +1,119 @@
+.zsy-about{
+    width:7rem;
+    height:auto;
+    padding:0 0.25rem;
+    background:#F5F6FA;
+    overflow:hidden;
+}
+.zsy-title{
+    width:100%;
+    height:0.82rem;
+}
+.zsy-title a{
+    font-size:0.22rem;
+    float:left;
+    color:#494747;
+    line-height:0.82rem;
+}
+.zsy-title span{
+    width:0.45rem;
+    height:0.2rem;
+    float:left;
+    margin-left:0.06rem;
+    display:block;
+    margin-top:0.30rem;
+}
+.zsy-title span img{
+    height:100%;
+    display:block;
+    margin:0 auto;
+}
+.zsy-overview{
+    width:100%;
+    height:auto;
+    box-sizing:border-box;
+    padding:0.3rem 0.2rem;
+    background:#fff;
+    overflow:hidden;
+    margin-bottom:0.1rem;
+}
+.zsy-overview-left{
+    width:0.04rem;
+    height:0.2rem;
+    background:#01B5FF;
+    float:left;
+    margin-top:0.03rem;
+}
+.zsy-overview-right{
+    width:6.42rem;
+    height:auto;
+    overflow:hidden;
+    float:right;
+}
+.zsy-overview-title{
+    width:100%;
+    height:0.42rem;
+    font-size:0.24rem;
+    color:#444444;
+    font-weight:bold;
+    border-bottom:1px dashed #B2B2B2;
+}
+.zsy-overview-content{
+    width:100%;
+    height:auto;
+    padding-top:0.15rem;
+}
+.zsy-overview-content p{
+    font-size:0.24rem;
+    color:#666666;
+    line-height:0.35rem;
+}
+.zsy-culture{
+    width:100%;
+    height:1.7rem;
+    box-sizing:border-box;
+    padding-top:0.36rem;
+    padding-left:0.36rem;
+}
+.zsy-culture li{
+    width:1.33rem;
+    height:1.33rem;
+    float:left;
+    font-size:0.26rem;
+    color:#fff;
+    line-height:1.33rem;
+    text-align:center;
+}
+.zsy-culture li:nth-child(1){
+    background:url(../images/zsy_img/zsy_tu1.png);
+    background-size:auto 100%;
+    margin-right:0.72rem;
+    background-position:0 0;
+}
+.zsy-culture li:nth-child(2){
+    background:url(../images/zsy_img/zsy_tu1.png);
+    background-size:auto 100%;
+    margin-right:0.72rem;
+    background-position:3.38rem 0;
+}
+.zsy-culture li:nth-child(3){
+    background:url(../images/zsy_img/zsy_tu1.png);
+    background-size:auto 100%;
+    margin-right:0.62rem;
+    background-position:1.32rem 0;
+}
+.zsy-bao{
+    width:100%;
+    height:1.68rem;
+    margin-top:0.34rem;
+}
+.zsy-baocenter{
+    width:1.68rem;
+    height:1.68rem;
+    margin:0 auto;
+    background:url(../images/zsy_img/zsy_tu2.png);
+    background-size:auto 100%;
+    color:#fff;
+    line-height:1.68rem;
+    text-align:center;
+}
