@@ -1,2 +1,31 @@
-
-/*11111*/
+*{
+    font-family: "微软雅黑";
+}
+.xjn-navbox{
+    width: 7.5rem;
+    height:auto;
+    background: #F5F6FA;
+    padding: 0 0.2rem;
+    padding-top: 0.28rem;
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content:space-between;
+}
+.xjn-navbox .xjn-navlist{
+    width:1.55rem;
+    height:2.24rem;
+}
+.xjn-nav{
+    display:block;
+    width:1.55rem;
+    height:1.55rem;
+    background:#fff;
+    border-radius: 10px;
+}
+.xjn-text{
+    font-size: 24px;
+    color: #000;
+    text-align: center;
+    padding-top: 0.15rem;
+}
