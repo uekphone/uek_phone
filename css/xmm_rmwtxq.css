@@ -1,0 +1,159 @@
+/* 
+* @Author: Marte
+* @Date:   2016-12-26 13:50:31
+* @Last Modified by:   Marte
+* @Last Modified time: 2016-12-26 19:06:55
+*/
+body{
+    overflow-x:hidden;
+    background:#f5f6fa
+}
+*{
+    font-family: "微软雅黑";
+}
+.xmm-gxxy-title{
+    width:7.5rem;
+    height:0.8rem;
+    padding:0 0.25rem;
+    line-height: 0.8rem;
+}
+.xmm-gxxy-title a{
+    color:#494747
+}
+.xmm-details{
+    height:auto;
+    margin:0 0.2rem 0 0.2rem;
+    background:#fff;
+    padding-top:0.2rem;
+}
+.xmm-details h2{
+    position:relative;
+    font-size:0.24rem;
+    font-weight: bold;
+    height:0.3rem;
+    width:5rem;
+    overflow:hidden;
+    white-space: nowrap;
+    text-overflow:ellipsis;
+    text-indent: 0.3rem;
+    line-height:0.3rem;
+    padding-left:0.2rem;
+    color:#444;
+    
+}
+.xmm-details h2 img{
+    position:absolute;
+   top:0.05rem;
+   left:0.2rem
+}
+.xmm-article{
+    width:6.3rem;
+    margin-left:0.5rem;
+    margin-top:0.15rem;
+    border-bottom:1px dashed #999
+}
+.xmm-article-content{
+    margin-top:0.2rem;
+    font-size:0.25rem;
+    color:#666;
+    line-height:0.35rem;
+    padding:0 0.3rem 0 0.4rem;
+}
+.xmm-mftj-img{
+    width:7rem;
+    height:auto;
+    background:#fff;
+    height:4.1rem;
+    margin:0 0.25rem;
+}
+.xmm-mftj-img div{
+    width:7rem;
+    padding:0.25rem 0;
+    height:3.6rem;
+    background:#474747
+}
+.xmm-atricle-content-two{
+    margin:0 0.25rem;
+    padding:0.25rem 0.2rem 0.25rem 0.4rem;
+    line-height:0.35rem;
+    background:#fff;
+}
+.xmm-share{
+    width:7rem;
+    margin:0 auto;
+    height:0.9rem;
+    background:#fff;
+    overflow:hidden;
+    margin:0 0.25rem 0 0.25rem 
+}
+.xmm-share-left{
+    padding:0.2rem;
+    color:#000;
+    font-size: 0.24rem;
+    float:left;
+}
+.xmm-share-right{
+    float:right;
+    padding:0.2rem 0.2rem 0.2rem 0;
+    width:1rem;
+    display:flex;
+    justify-content: space-around;
+}
+.xmm-share-right li img{
+    width:0.4rem;
+    height:0.4rem
+}
+.xmm-fanye{
+    padding:0.15rem 0.4rem 0.15rem 0.4rem;
+}
+.xmm-fanye p{
+    line-height:0.45rem;
+    font-size: 0.24rem;
+    
+}
+.xmm-problems{
+    text-indent:0.5rem;
+}
+.xmm-problems p{
+    line-height:0.55rem;
+    font-size:0.24rem;
+    position:relative;
+    color:#000
+}
+.xmm-problems p:nth-child(4){
+    color:#01b5ff
+}
+.xmm-problems p img{
+    position:absolute;
+    top:6px;
+    left:3px;
+    width:15px;
+    height:18px;
+}
+a.xmm{
+    position:relative;
+    width:0.4rem;
+    height:0.4rem;
+    display:block;
+    float:left;
+    border-radius: 50%;
+    overflow:hidden;
+    margin-right:0.2rem;
+    background:#fff
+}
+a.xmm img{
+    width:0.4rem;
+    height:0.4rem;
+    position:absolute;
+    z-index:1000;
+    top:0;
+    left:0
+}
+a.xmm .xmm-zhe{
+    width:100%;
+    height:100%;
+    background:#fff;
+    position:absolute;
+    top:0;left:0;
+    z-index:20;
+}
