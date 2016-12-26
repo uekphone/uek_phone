@@ -1,0 +1,120 @@
+html,body{
+    width:100%;
+    height:100%;
+    background:#F5F6FA;
+}
+*{
+    font-family:"微软雅黑";
+}
+.zsy-about{
+    width:7rem;
+    height:auto;
+    padding:0 0.25rem;
+    background:#F5F6FA;
+    overflow:hidden;
+}
+.zsy-title{
+    width:100%;
+    height:0.82rem;
+}
+.zsy-title a{
+    font-size:0.22rem;
+    float:left;
+    color:#494747;
+    line-height:0.82rem;
+}
+.zsy-title span{
+    width:0.45rem;
+    height:0.2rem;
+    float:left;
+    margin-left:0.06rem;
+    display:block;
+    margin-top:0.30rem;
+}
+.zsy-title span img{
+    height:100%;
+    display:block;
+    margin:0 auto;
+}
+.zsy-report{
+    width:100%;
+    height:3.37rem;
+    background:#fff;
+    padding:0.25rem;
+    box-sizing:border-box;
+    background:#fff;
+    margin-bottom:0.03rem;
+    display:block;
+}
+.zsy-report-top{
+    width:100%;
+    height:0.48rem;
+    font-size:0.26rem;
+    color:#000;
+}
+.zsy-report-center{
+    width:100%;
+    height:1.77rem;
+    border-bottom:1px solid #D2D2D2;
+}
+.zsy-report-cleft{
+    width:2.05rem;
+    height:1.58rem;
+    float:left;
+    position:relative;
+}
+.zsy-cborder{
+    width:1.97rem;
+    height:1.5rem;
+    position:absolute;
+    right:0;
+    top:0;
+    z-index:1;
+    background:url(../images/zsy_img/zsy_tu3.png);
+    background-size:100% 100%;
+}
+.zsy-cimg{
+    width:1.93rem;
+    height:1.45rem;
+    position:absolute;
+    left:0;
+    bottom:0;
+    background:#C8C8C8;
+    z-index:2;
+}
+.zsy-report-cright{
+    width:4.66rem;
+    height:1.58rem;
+    float:right;
+    padding-top:0.05rem;
+    box-sizing:border-box;
+}
+.zsy-report-cright p{
+    font-size:0.24rem;
+    color:#494747;
+    line-height:0.35rem;
+}
+.zsy-report-bottom{
+    width:100%;
+    height:0.6rem;
+    border-bottom:1px solid #D2D2D2;
+    display:flex;
+    justify-content:space-between;
+}
+.zsy-report-bottom li{
+    width:auto;
+    height:100%;
+}
+.zsy-report-bottom li img{
+    width:0.3rem;
+    margin-top:0.15rem;
+    float:left;
+    padding-left:0.1rem;
+}
+.zsy-report-bottom li span{
+    font-size:0.22rem;
+    color:#666;
+    float:left;
+    margin-left:0.08rem;
+    line-height:0.6rem;
+}
