@@ -1,0 +1,218 @@
+/*关于我们*/
+.dkl-content{
+	width:7.5rem;
+	height:auto;
+	background: #F5F6FA;
+}
+/*标题*/
+.dkl-title{
+	width:7rem;
+	height:0.8rem;
+	line-height: 0.8rem;
+	margin:0 auto;
+	font-size: 0.22rem;
+	color:#494747;
+	overflow: hidden;
+}
+.dkl-title a{
+	display: block;
+	color:#494747;
+	float: left;
+}
+.dkl-title span{
+	float: left;
+}
+/*选择*/
+.dkl-choose-list{
+	width:7rem;
+	height:2.25rem;
+	background: #fff;
+	margin:0 auto;
+}
+.dkl-choose-list ul{
+	width:6.2rem;
+	height:2.25rem;
+	margin:0 auto;
+}
+.dkl-choose-list ul li{
+	width:1.55rem;
+	height:100%;
+	float: left;
+}
+.dkl-choose-list ul li a{
+	width:1.55rem;
+	height:100%;	
+}
+.dkl-choose-img{
+	width:1.55rem;
+	height:1.24rem;
+	margin-top:0.28rem;
+	margin-left: 0.15rem;
+}
+.dkl-choose-img img{
+	width:1.24rem;
+	height:1.24rem;
+}
+.dkl-choose-title{
+	display: block;
+	height:0.6rem;
+	line-height: 0.6rem;
+	font-size: 0.24rem;
+	text-align: center;	
+	color:#000;
+}
+/*关于前端工程师*/
+.dkl-about-us{
+	width:7rem;
+	height:auto;
+	margin:0 auto;
+	margin-top:0.2rem;
+	background:#fff;
+}
+.dkl-about-us-title{
+	width:7rem;		
+	position:relative;
+}
+.dkl-lt-img{
+	width:0.04rem;
+	height:0.2rem;
+	background: #01B5FF;
+	margin:0.2rem;
+	margin-left:0.3rem;
+	margin-right:0.3rem;
+	float: left;
+	position:absolute;
+	top:0.04rem;
+	left:0;
+}
+.dkl-about-title{
+	width:6.2rem;
+	height:0.6rem;
+	line-height: 0.6rem;
+	color:#000;
+	font-size: 0.24rem;
+	font-weight: bold;
+	margin-left:0.65rem;
+	display: block;
+	border-bottom:1px dashed #999999;
+}
+.dkl-about-content{
+	padding-bottom:0.2rem;
+}
+.dkl-content-para{
+	width:6.2rem;
+	height:auto;
+	padding-left:0.65rem;
+	font-size: 0.24rem;
+	color:#666666;
+	line-height: 0.4rem;
+}
+.dkl-content-bold{
+	color:#01B5FF;
+	font-weight: bold;
+	font-size: 0.24rem;
+	width:6.2rem;
+	padding-left:0.65rem;
+	line-height: 0.4rem;
+}
+.dkl-about-xinzi{
+	width:4.8rem;
+	height:4.9rem;
+	margin:0 auto;
+	margin-top:0.45rem;
+}
+.dkl-about-canwork{
+	width:100%;
+	height:auto;
+	padding-bottom:.2rem;
+}
+.dkl-about-canwork ul{
+	width:100%;
+	height:auto;
+}
+.dkl-about-canwork ul li{
+	width:100%;
+	margin-top:0.2rem;
+	height:.56rem;
+}
+.dkl-about-canwork ul li a{
+	display: block;
+	margin-left:0.5rem;
+}
+.dkl-canwork-list{
+	width:0.56rem;
+	height:0.56rem;
+	float:left;
+}
+.dkl-canwork-name{
+	overflow:hidden;
+	/*float: left;*/
+}
+.dkl-canwork-name p{
+	font-size: 0.24rem;
+	color:#02B5FF;
+}
+.dkl-canwork-name span{
+	font-size: 0.2rem;
+	color:#3E3A39;
+}
+/*就业薪资开始*/
+.dkl-jiuye-box{
+	width:100%;
+	height:auto;
+	padding:.3rem .2rem .2rem .3rem;
+	box-sizing:border-box;
+}
+.dkl-name{
+	padding-left:.1rem;
+	font-size:.24rem;
+	color:#000;
+}
+.dkl-xm{
+	margin-left:.45rem;
+}
+.dkl-xz{
+	margin-left:0.8rem;
+}
+.dkl-fl{
+	margin-left:1.4rem;
+}
+.dkl-people-box div .dkl-xz-jt{
+	color:#FFA201;
+}
+.dkl-people-box{
+	width:100%;
+	margin-top:.3rem;
+}
+.dkl-people-box li{
+	width:100%;
+	height:.7rem;
+	position: relative;
+}
+.dkl-people-box li div{
+	padding-top: .23rem;
+	font-size:.24rem;
+	color:#000;
+	padding-left:.3rem;
+}
+.dkl-people-box li div span{
+	margin-left:.2rem;
+	color:#666;
+}
+.dkl-line{
+	display:block;
+	width:.19rem;
+	height:.7rem;
+	position: absolute;
+	background:url(../images/dkl_img/dkl-line.png) no-repeat;
+	background-size:.19rem .7rem;
+	left:-.05rem;
+	top:0;
+}
+.dkl-source-box{
+	margin-top:.3rem;
+	margin-left:.9rem;
+}
+.dkl-last{
+	padding-bottom:.3rem;
+}
